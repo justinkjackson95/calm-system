@@ -18,7 +18,7 @@ This is version 1 of the CALM System running on a Raspberry Pi. It:
 - Optional: Doppler radar sensor
 
 ### AWS Services
-IoT Core → Lambda → DynamoDB → QuickSight
+AWS downstream required: Lambda → DynamoDB → QuickSight (backend integration coming in v2)
 
 ### File Structure
 calm-system-v1/
